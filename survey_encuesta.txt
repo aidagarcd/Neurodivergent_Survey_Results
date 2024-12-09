@@ -1,0 +1,45 @@
+0- Do you know what it is to be neurodivergent? Yes / No / pretty much
+1- Do you know any neurodivergent person? Yes / No / does not know’
+2- Are you neurodivergent? (*with diagnosis) Yes / No
+3- Your sex: M/F 
+4- Do you consider that you know people who behave in a socially unusual way? Yes / No
+5- Have you ever helped someone who socialises in an unusual way at a social event? Yes / No
+6- Do you know how to help someone who socialises in an unusual way at a social event? Yes / No
+7- Have you ever not invited to a social event someone who behaves differently socially? Yes / No 
+8- Have you ever ignored or felt uncomfortable with people who socialise in an unusual way? Yes / No
+9- Do you think there should be more training or information about neurodivergence in society? Yes / No 
+10- Do you think that being neurodivergent has negative connotations, such as being a nuisance to others? That it will make you uncomfortable, that it will make you uncomfortable? Yes / No
+11- Do you think it is necessary to put measures in place to integrate these people socially? Yes / No / They must adapt themselves exclusively
+12- Do you think that current social environments are inclusive for neurodivergent people? Yes / No / I am not sure
+13- Have you ever witnessed someone who is neurodivergent being treated unfairly in a social setting? Yes / No / Not sure
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+0- ¿Sabes qué es ser neurodivergente? Sí / No / Más o menos
+1- ¿Conoces a alguna persona neurodivergente? Sí / No/ No estoy seguro/a"
+2- ¿Eres neurodivergente? (*con diagnóstico) Sí / No
+3- Tu sexo: M/F 
+4- ¿Consideras que conoces a personas que se comportan de forma inusual socialmente? Sí / No
+5- Alguna vez has ayudado en un evento social a alguien que socializa de forma inusual? Sí / No
+6- Sabes cómo ayudar a alguien que socializa de forma inusual en un evento social? Sí / No
+7- ¿Alguna vez no has invitado a un evento social a alguien que se comporta de manera diferente socialmente? Sí / No 
+8- Alguna vez has ignorado o te has sentido incómodo con gente que socializa de forma inusual? Sí / No
+9- ¿Crees que debería haber más formación o información sobre neurodivergencia en la sociedad? Sí / No 
+10- ¿Crees que ser neurodivergente tiene connotaciones negativas, como ser una molestia para los demás? Que vaya a incomodar, que se vaya a incomodar... Sí / No
+11- ¿Crees que hace falta poner medidas para integrar a estar personas socialmente? Sí / No / Es trabajo exclusivo de ellos adaptarse
+12- ¿Crees que los entornos sociales actuales son inclusivos para personas neurodivergentes? Sí / No / No estoy seguro/a.
+13- ¿Alguna vez has presenciado cómo alguien neurodivergente fue tratado injustamente en un entorno social? Sí / No / No estoy seguro/a.
+
+
+
+
+
+
+
+
+
+
+
+
